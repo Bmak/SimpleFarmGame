@@ -1,5 +1,5 @@
 # SimpleFarmGame
-Test Task for Cosmos Company
+Test Task for Kosmos
 
 Реализована простейшая игра по типу фермы.
 Игра подгружает внешние файлы:
